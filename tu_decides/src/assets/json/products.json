@@ -1,0 +1,39 @@
+{
+  "Products": [
+    {
+      "id": "1",
+      "tittle": "Manzanas",
+      "price": "5000$",
+      "image": "https://images.pexels.com/photos/2950436/pexels-photo-2950436.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "description": "Este producto es de origen natural, no cuenta con azucares añadidos, ni concervantes, producto totalmente organico"
+    },
+    {
+      "id": "2",
+      "tittle": "Peras",
+      "price": "4500$",
+      "image": "https://images.pexels.com/photos/2987077/pexels-photo-2987077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Este producto es de origen natural, no cuenta con azucares añadidos, ni concervantes, producto totalmente organico"
+    },
+    {
+      "id": "3",
+      "tittle": "Bananos",
+      "price": "2000$",
+      "image": "https://images.pexels.com/photos/2168838/pexels-photo-2168838.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "description": "Este producto es de origen natural, no cuenta con azucares añadidos, ni concervantes, producto totalmente organico"
+    },
+    {
+      "id": "4",
+      "tittle": "Alimento",
+      "price": "10$",
+      "image": "https://images.pexels.com/photos/2168838/pexels-photo-2168838.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "description": "Este producto es de origen natural, no cuenta con azucares añadidos, ni concervantes, producto totalmente organico"
+    },
+    {
+      "id": "5",
+      "tittle": "otro",
+      "price": "2000$",
+      "image": "https://images.pexels.com/photos/2168838/pexels-photo-2168838.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "description": "Este producto es de origen natural, no cuenta con azucares añadidos, ni concervantes, producto totalmente organico"
+    }
+  ]
+}

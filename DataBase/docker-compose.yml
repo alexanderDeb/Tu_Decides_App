@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  data_base:
+    image: mysql:8.0.17
+    environment:
+      MYSQL_ROOT_PASSWORD: 1234
+      MYSQL_DATABASE: tuDecides
+      MYSQL_HOST: 127.0.0.1
+      MYSQL_USER: root
+    ports:
+      - "3306:3306"
